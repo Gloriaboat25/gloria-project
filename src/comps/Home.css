@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.homet{
+    padding: 30px;
+    margin-top: 200px;
+    
+
+}
+.slog{
+    font-size: 40px;
+
+}
+
+.slog2{
+    font-size: 24px;
+
+}
+
+.slog3{
+    margin: 15px 0px 40px 0px;
+    font-size: 15px;
+
+}
+
+.actions{
+
+
+
+}
+
+.start {
+    border: 0px;
+    padding: 10px 20px;
+    border-radius: 4px;
+    background-color: #0066ff;
+    margin-right: 10px;
+    height: 40px;
+
+}
+.homet.actions button:hover{}
+
+.icon-camera{
+    margin: 0px 8px 0px 0px;
+
+}
+.room{
+    border: 1px #9a9a9a solid;
+    padding: 10px 13px;
+    border-radius: 4px;
+    margin-right: 10px;
+    height: 20px;
+}
+.tablet-frame{
+    flex: 1;
+    margin-left: 75px;
+    
+
+}
+.tablet{
+    height: 460px;
+    width: 700px;
+    background-color: #fff;
+    border-radius: 35px;
+    box-shadow: 0px 0px 15px #978c8cea;
+    position: absolute;
+    right: 20px ;
+    margin-bottom: 1000px;
+    top: 70px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap:5px;
+    grid-auto-rows: 100px ;
+    margin-bottom: 10px;
+
+}
+.tablet-notch{
+    width: 200px;
+    height: 200px;
+    background-color: #ccc;
+    margin-bottom: 10px;
+
+    /* border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%); */
+    /* right: 20px; */
+}
+.tablet-hbtn{
+    width: 200px;
+    height: 200px;
+    background-color: #ccc;
+    margin-bottom: 10px;
+    /* border-radius: 50%;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 20px; */
+
+}
+.screenb{
+    width: 200px;
+    height: 200px;
+    background-color: #ccc;
+    margin-bottom: 10px;
+
+}
+/* .div4{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(151, 56, 56);
+    margin-top: 10px;
+
+}
+.div5{
+    width: 200px;
+    height: 200px;
+    background-color: rgba(184, 187, 42, 0.932);
+    margin-top: 10px;
+
+    
+}
+.div6{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(46, 211, 148);
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+    
+}
+.div7{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(24, 137, 202);
+    margin-top: 10px;
+
+    
+} */
