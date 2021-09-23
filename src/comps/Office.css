@@ -1,0 +1,130 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+
+
+.moduleT {
+    /* overflow: hidden; */
+    /* width: 20px; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+    grid-auto-rows: 100px;
+    margin-top: 50px;
+    margin-left: 10px;
+    grid-auto-columns: 200px;
+    /* background-color: blue; */
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    height: 200px;
+    width: 700px;
+    /* background-color: green; */
+    background-color: rgb(125, 228, 125);
+    margin-right: 20px;
+  margin-left: 20px;
+
+
+}
+.moduleF {
+  /* overflow: hidden; */
+  /* width: 20px; */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-top: 50px;
+  margin-left: 10px;
+  grid-auto-rows: 100px;
+  grid-auto-columns: 200px;
+  /* background-color: blue; */
+  padding-bottom: 20px;
+  padding-top: 20px;
+  height: 200px;
+  width: 700px;
+  background-color: rgb(124, 226, 124);
+  margin-right: 10px;
+  margin-left: 10px;
+  border-radius: 5px;
+
+
+}
+.moduleG {
+  /* overflow: hidden; */
+  /* width: 20px; */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-top: 50px;
+  margin-left: 10px;
+  grid-auto-rows: 100px;
+  grid-auto-columns: 200px;
+  /* background-color: blue; */
+  padding-bottom: 20px;
+  padding-top: 20px;
+  height: 200px;
+  width: 700px;
+  /* background-color: chocolate; */
+  background-color: rgb(120, 214, 120);
+  margin-right: 10px;
+  margin-left: 10px;
+  border-radius: 5px;
+
+
+}
+.moduleM {
+  /* overflow: hidden; */
+  /* width: 20px; */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin-top: 50px;
+  margin-left: 10px;
+  grid-auto-rows: 100px;
+  grid-auto-columns: 200px;
+  /* background-color: blue; */
+  padding-bottom: 20px;
+  padding-top: 20px;
+  height: 200px;
+  width: 700px;
+  /* background-color: chocolate; */
+  background-color: rgb(120, 214, 120);
+  margin-right: 20px;
+  margin-left: 20px;
+  border-radius: 5px;
+
+}
+.d1{
+  background-color: rgb(236, 226, 212);
+  
+  
+}
+.d2{
+  background-color: rgb(236, 223, 206);
+  
+  
+}
+.d3{
+  background-color: rgb(233, 222, 208);
+  
+}
+.d4{
+  background-color: rgb(236, 228, 216);
+  
+}
+.flow{
+  display: flex;
+}
+.start2 {
+  border: 0px;
+  padding: 10px 20px;
+  border-radius: 4px;
+  background-color:grey;
+  margin-right: 10px;
+  height: 40px;
+  margin-bottom: 10px;
+  
+  
+  }
+  
